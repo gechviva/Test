@@ -3,6 +3,3 @@
 
 This is Interesting
 
-En andring
-
-Githu Desktop ändring
